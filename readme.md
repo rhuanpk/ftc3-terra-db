@@ -15,7 +15,7 @@ Este repositório contém o código fonte da infraestrutura em Terraform do banc
 Clone o projeto:
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/rhuanpk/ftc3-terra-db.git 
 ```
 
 Entre no diretório do projeto:
