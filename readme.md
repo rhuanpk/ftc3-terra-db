@@ -7,7 +7,7 @@
 Este repositório contém o código fonte da infraestrutura em Terraform do banco de dados desenvolvida para o projeto do Tech Challenge referente a pós-graduação da FIAP TECH no ano de 2024:
 
 ## MER
-https://github.com/rhuanpk/ftc3-terra-db/blob/main/.assets/db.png
+![MER](.assets/db.png)
 
 ## Stack utilizada
 
