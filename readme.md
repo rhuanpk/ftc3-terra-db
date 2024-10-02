@@ -61,4 +61,3 @@ Execute o comando de `apply` para aplicar as alterações e subir a aplicação:
 -  [@Diógenes Viana](https://github.com/diogenesviana)
 -  [@Filipe Borba](https://www.github.com/filipexxborba)
 -  [@Rhuan Patriky](https://github.com/rhuanpk)
-
